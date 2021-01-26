@@ -1,0 +1,514 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": 16000,
+      "rating": "4.6 (512)",
+      "is_ready": true,
+      "gambar": "sate-ayam.jpg",
+      "selection": [
+        1
+      ],
+      "cafe": "$ • Italian, Cafe"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Nasi Goreng Telur",
+      "harga": 14000,
+      "rating": "4.4 (413)",
+      "is_ready": true,
+      "gambar": "nasi-goreng-telor.jpg",
+      "selection": [
+        2
+      ],
+      "cafe": "$ • Indonesia, Cafe"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Nasi Rames",
+      "harga": 12000,
+      "rating": "4.6 (400)",
+      "is_ready": true,
+      "gambar": "nasi-rames.jpg",
+      "selection": [
+        0
+      ],
+      "cafe": "$ • Indonesian, Resto"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sate-ayam.jpg",
+      "rating": "4.6 (400)",
+      "cafe": "$ • Indonesian, Resto",
+      "selection": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Nasi Goreng Telur",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "nasi-goreng-telor.jpg",
+      "rating": "4.6 (400)",
+      "cafe": "$ • Indonesian, Resto",
+      "selection": [
+        2
+      ]
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Nasi Rames",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "nasi-rames.jpg",
+      "rating": "4.6 (400)",
+      "cafe": "$ • Indonesian, Resto",
+      "selection": [
+        3
+      ]
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Mie Ayam Bakso",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "mie-ayam-bakso.jpg",
+      "rating": "4.6 (400)",
+      "cafe": "$ • Indonesian, Resto",
+      "selection": [
+        2
+      ]
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Mie Goreng",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "mie-goreng.jpg",
+      "rating": "4.6 (400)",
+      "cafe": "$ • Indonesian, Resto",
+      "selection": [
+        3
+      ]
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Bakso",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "bakso.jpg",
+      "rating": "4.6 (400)",
+      "cafe": "$ • Indonesian, Resto",
+      "selection": [
+        3
+      ]
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Pangsit 6 pcs",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "pangsit.jpg",
+      "rating": "4.6 (400)",
+      "cafe": "$ • Indonesian, Resto",
+      "selection": [
+        2
+      ]
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Kentang Goreng",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "kentang-goreng.jpg",
+      "rating": "4.6 (400)",
+      "cafe": "$ • Indonesian, Resto",
+      "selection": [
+        2
+      ]
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Lontong Opor Ayam",
+      "harga": 18000,
+      "is_ready": true,
+      "gambar": "lontong-opor-ayam.jpg",
+      "rating": "4.6 (400)",
+      "cafe": "$ • Indonesian, Resto",
+      "selection": [
+        3
+      ]
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": [
+    {
+      "nama": "1",
+      "noMeja": "1",
+      "keranjang": [
+        {
+          "jumlah_pemesanan": "1",
+          "keterangan": "41",
+          "products": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Sate Ayam",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-ayam.jpg",
+            "rating": "4.6 (400)",
+            "cafe": "$ • Indonesian, Resto",
+            "selection": [
+              1
+            ]
+          },
+          "id": 1
+        },
+        {
+          "jumlah_pemesanan": "252",
+          "keterangan": "15425",
+          "products": {
+            "id": 5,
+            "kode": "K-05",
+            "nama": "Mie Goreng",
+            "harga": 13000,
+            "is_ready": true,
+            "gambar": "mie-goreng.jpg",
+            "rating": "4.6 (400)",
+            "cafe": "$ • Indonesian, Resto",
+            "selection": [
+              3
+            ]
+          },
+          "id": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "nama": "Mahardika",
+      "noMeja": "1",
+      "keranjang": [
+        {
+          "jumlah_pemesanan": "2",
+          "keterangan": "adqwdw",
+          "products": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Goreng Telur",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-goreng-telor.jpg",
+            "rating": "4.6 (400)",
+            "cafe": "$ • Indonesian, Resto",
+            "selection": [
+              2
+            ]
+          },
+          "id": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "nama": "Mahardika",
+      "noMeja": "2",
+      "Keranjang": [
+        {
+          "Jumlah_Pemesanan": "1",
+          "keterangan": "hahai",
+          "products": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Goreng Telur",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-goreng-telor.jpg",
+            "rating": "4.6 (400)",
+            "cafe": "$ • Indonesian, Resto",
+            "selection": [
+              2
+            ]
+          },
+          "id": 1
+        },
+        {
+          "Jumlah_Pemesanan": "1",
+          "keterangan": "balebale\n",
+          "products": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Nasi Rames",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "nasi-rames.jpg",
+            "rating": "4.6 (400)",
+            "cafe": "$ • Indonesian, Resto",
+            "selection": [
+              3
+            ]
+          },
+          "id": 2
+        },
+        {
+          "Jumlah_Pemesanan": "1",
+          "keterangan": "",
+          "products": {
+            "id": 1,
+            "kode": "K-01",
+            "nama": "Sate Ayam",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-ayam.jpg",
+            "rating": "4.6 (400)",
+            "cafe": "$ • Indonesian, Resto",
+            "selection": [
+              1
+            ]
+          },
+          "id": 3
+        }
+      ],
+      "id": 4
+    },
+    {
+      "nama": "Mahardola",
+      "noMeja": "1",
+      "Keranjang": [
+        {
+          "Jumlah_Pemesanan": "2",
+          "keterangan": "21",
+          "products": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Goreng Telur",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-goreng-telor.jpg",
+            "rating": "4.6 (400)",
+            "cafe": "$ • Indonesian, Resto",
+            "selection": [
+              2
+            ]
+          },
+          "id": 1
+        }
+      ],
+      "id": 5
+    },
+    {
+      "nama": "d",
+      "noMeja": "d",
+      "keranjang": [
+        {
+          "Jumlah_Pemesanan": "1",
+          "keterangan": "blabla",
+          "products": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Nasi Rames",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "nasi-rames.jpg",
+            "rating": "4.6 (400)",
+            "cafe": "$ • Indonesian, Resto",
+            "selection": [
+              3
+            ]
+          },
+          "id": 1
+        }
+      ],
+      "id": 6
+    },
+    {
+      "nama": "KoDelwin",
+      "noMeja": "21",
+      "Keranjang": [
+        {
+          "Jumlah_Pemesanan": "2",
+          "keterangan": "",
+          "products": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Nasi Rames",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "nasi-rames.jpg",
+            "rating": "4.6 (400)",
+            "cafe": "$ • Indonesian, Resto",
+            "selection": [
+              3
+            ]
+          },
+          "id": 1
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "FakeApi": [
+    {
+      "id": "1",
+      "kode": "74340-3940",
+      "nama": "Handcrafted Frozen Ball",
+      "gambar": "http://lorempixel.com/640/480/food",
+      "Harga": "228.00",
+      "cafe": "Dietrich Group",
+      "selection": [
+        3
+      ]
+    },
+    {
+      "id": "2",
+      "kode": "26479-2479",
+      "nama": "Refined Frozen Mouse",
+      "gambar": "http://lorempixel.com/640/480/nature",
+      "Harga": "651.00",
+      "cafe": "Beahan, Mueller and Fadel",
+      "selection": [
+        3
+      ]
+    },
+    {
+      "id": "3",
+      "kode": "21829-3725",
+      "nama": "Fantastic Wooden Fish",
+      "gambar": "http://lorempixel.com/640/480/business",
+      "Harga": "328.00",
+      "cafe": "Klocko - Rowe",
+      "selection": [
+        3
+      ]
+    },
+    {
+      "id": "4",
+      "kode": "74199-6283",
+      "nama": "Small Wooden Chicken",
+      "gambar": "http://lorempixel.com/640/480/nature",
+      "Harga": "102.00",
+      "cafe": "Ryan, Zboncak and Hyatt",
+      "selection": [
+        3
+      ]
+    },
+    {
+      "id": "5",
+      "kode": "64387-2218",
+      "nama": "Practical Granite Sausages",
+      "gambar": "http://lorempixel.com/640/480/nature",
+      "Harga": "190.00",
+      "cafe": "O'Connell, Ebert and Becker",
+      "selection": [
+        3
+      ]
+    },
+    {
+      "id": "6",
+      "kode": "51414",
+      "nama": "Tasty Granite Towels",
+      "gambar": "http://lorempixel.com/640/480/food",
+      "Harga": "46.00",
+      "cafe": "Bahringer and Sons",
+      "selection": [
+        3
+      ]
+    },
+    {
+      "id": "7",
+      "kode": "32030-2574",
+      "nama": "Fantastic Metal Chicken",
+      "gambar": "http://lorempixel.com/640/480/food",
+      "Harga": "419.00",
+      "cafe": "Heathcote - Welch",
+      "selection": [
+        3
+      ]
+    },
+    {
+      "id": "8",
+      "kode": "32457",
+      "nama": "Tasty Frozen Cheese",
+      "gambar": "http://lorempixel.com/640/480/technics",
+      "Harga": "686.00",
+      "cafe": "Corkery, Wilkinson and Lebsack",
+      "selection": [
+        3
+      ]
+    },
+    {
+      "id": "9",
+      "kode": "64284",
+      "nama": "Intelligent Rubber Sausages",
+      "gambar": "http://lorempixel.com/640/480/technics",
+      "Harga": "488.00",
+      "cafe": "Wintheiser, Monahan and Beier",
+      "selection": [
+        3
+      ]
+    },
+    {
+      "id": "10",
+      "kode": "16249",
+      "nama": "Small Frozen Fish",
+      "gambar": "http://lorempixel.com/640/480/abstract",
+      "Harga": "714.00",
+      "cafe": "Turcotte Inc",
+      "selection": [
+        3
+      ]
+    },
+    {
+      "id": "11",
+      "kode": "03153-6106",
+      "nama": "Unbranded Steel Bacon",
+      "gambar": "http://lorempixel.com/640/480/food",
+      "Harga": "471.00",
+      "cafe": "Lehner, Lindgren and Lindgren",
+      "selection": [
+        3
+      ]
+    },
+    {
+      "id": "12",
+      "kode": "74111-4392",
+      "nama": "Incredible Rubber Tuna",
+      "gambar": "http://lorempixel.com/640/480/business",
+      "Harga": "901.00",
+      "cafe": "Leannon, Strosin and Conn",
+      "selection": [
+        3
+      ]
+    },
+    {
+      "id": "13",
+      "kode": "31354",
+      "nama": "Practical Plastic Towels",
+      "gambar": "http://lorempixel.com/640/480/sports",
+      "Harga": "870.00",
+      "cafe": "Bins - Welch",
+      "selection": [
+        3
+      ]
+    }
+  ]
+}
